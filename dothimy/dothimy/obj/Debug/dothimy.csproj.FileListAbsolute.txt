@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\dothimy\dothimy\bin\Debug\dothimy.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\dothimy\dothimy\bin\Debug\dothimy.exe
+c:\users\dell\documents\visual studio 2015\Projects\dothimy\dothimy\bin\Debug\dothimy.pdb
+c:\users\dell\documents\visual studio 2015\Projects\dothimy\dothimy\obj\Debug\dothimy.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\dothimy\dothimy\obj\Debug\dothimy.exe
+c:\users\dell\documents\visual studio 2015\Projects\dothimy\dothimy\obj\Debug\dothimy.pdb
